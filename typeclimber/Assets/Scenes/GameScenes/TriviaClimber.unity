@@ -53828,7 +53828,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2070440987}
   m_Layer: 0
-  m_Name: word-type-puzzl
+  m_Name: word-type-puzzle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
